@@ -3,7 +3,7 @@
 ## Setup Instructions
 
 1. **Clone the repo** or download the ZIP.
-2. **Create virtual environment** (optional but recommended):
+2. **Create virtual environment** (optional ):
    ```
    python -m venv venv
    source venv/bin/activate  # On Windows use venv\Scripts\activate
